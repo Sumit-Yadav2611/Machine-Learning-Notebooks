@@ -1,0 +1,8 @@
+names:
+- Platelets
+- RBC
+- WBC
+nc: 3
+test: C:\Users\MUHAMMAD NOUKHEZ\Dropbox\Noukhej-AFM\Datasets\BCCD\test\images
+train: C:\Users\MUHAMMAD NOUKHEZ\Dropbox\Noukhej-AFM\Datasets\BCCD\train\images
+val: C:\Users\MUHAMMAD NOUKHEZ\Dropbox\Noukhej-AFM\Datasets\BCCD\valid\images
